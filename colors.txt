@@ -6,3 +6,4 @@ yellow
 purple
 brown
 navy blue
+cyber yellow
