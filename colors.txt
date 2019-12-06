@@ -5,4 +5,4 @@ pink
 yellow
 purple
 brown
-pale blue
+navy blue
