@@ -3,4 +3,5 @@ red
 orange
 pink
 yellow
+purple
 brown
