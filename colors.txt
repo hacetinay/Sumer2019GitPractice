@@ -5,5 +5,5 @@ pink
 yellow
 purple
 brown
-navy blue
-cyber yellow
+pale blue
+Azura
