@@ -7,3 +7,5 @@ CA
 NE
 NY
 MA
+KS
+AZ
