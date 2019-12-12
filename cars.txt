@@ -3,3 +3,5 @@ honda
 bmw
 tesla
 audi
+mazda
+lincoln
