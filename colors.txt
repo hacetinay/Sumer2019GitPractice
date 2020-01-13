@@ -8,3 +8,5 @@ brown
 pale blue
 Azura
 holy
+hobby
+loby
