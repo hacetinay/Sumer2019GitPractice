@@ -8,9 +8,7 @@ brown
 pale blue
 Azura
 holy
-<<<<<<< HEAD
 hobby
 lobby
-=======
 moly
->>>>>>> haci
+
