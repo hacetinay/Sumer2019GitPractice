@@ -2,6 +2,10 @@ ha
 haha
 hahaha
 lalala
+<<<<<<< Updated upstream
 gagagagaga
 
 
+=======
+jajajaja
+>>>>>>> Stashed changes
