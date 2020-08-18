@@ -3,5 +3,5 @@ dog
 lion
 tiger
 rabbit
-wolf
-monkey
+goril
+camel
