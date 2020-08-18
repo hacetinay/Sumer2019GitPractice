@@ -1,7 +1,7 @@
 cat
 dog
-lion
-tiger
+hemster
+monster
 rabbit
 goril
 camel
